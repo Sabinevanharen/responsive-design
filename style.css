@@ -1,0 +1,52 @@
+
+body{
+background-color: lightgrey;
+}@media only screen and (min-width: 768px) {
+}
+header {background-image: url("oud wijchen.jpg");
+font-family:'Edu NSW ACT Foundation', cursive;
+font-size: 60px;
+text-align: left;
+color: white;
+text-shadow:4px 4px black;
+padding: 60px;
+}
+h1 {
+font-family:'Edu NSW ACT Foundation',cursive;
+font-size: 30px;
+}
+#inhoudeen{
+width: 16.66%;
+background-color: lightgrey;
+float: left;
+padding: 15px;
+}
+ul{
+list-style-type: circle;
+}
+#inhoudtwee{
+width: 75%;
+background-color: slategray;
+display: inline-block;
+padding: 15px;
+}
+.text{
+min-height: 300px;
+min-width: 16.66%;
+font-family: "Times New Roman", Times, serif;
+font-size: 18px;
+}
+img{
+float: right;
+width: 25%;
+margin-right: 15px;
+border-radius: 15px;
+padding: 5px;
+}
+footer{
+width: 100%;
+background-color: black;
+color: white;
+padding: 15px;
+clear: left;
+}
